@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="music_in_MFC1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="node.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sheet.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="element.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="note.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="h.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InitDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Play.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="music_in_MFC1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="node.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sheet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="element.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="note.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InitDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Play.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="musicinMFC1.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\musicinMFC1.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\ribbon1.mfcribbon-ms">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\ribbon2.mfcribbon-ms">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\music_in_MFC1.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\오선지_1240_113_7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\온음표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\nzero1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\검은콩.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\흰 콩.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\꼬리.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\꼬리2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\꼬리R.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\꼬리R2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\온쉼표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\4분쉼표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\8분쉼표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00002.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\이분쉼표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\nfour1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ntwo1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\reight1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\rfour1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\rtwo1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\tail3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\tail4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\tailr3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00003.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fff1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00004.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\높은음자리표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\낮은음자리표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\24.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\34.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\38.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\44.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\54.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\64.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\68.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\98.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\128.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\샵.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\플랫.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\제자리표.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\f.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mf.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\p.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\pp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ppp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
